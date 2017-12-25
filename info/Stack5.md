@@ -16,4 +16,3 @@
 ### 代码
 
 [Java源码实现](../src/Stack5.java)
-~
