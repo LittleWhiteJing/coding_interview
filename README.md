@@ -23,3 +23,9 @@
   - [用栈来解决汉诺塔问题](./info/Stack6.md)
 
   - [生成窗口最大数组](./info/Stack7.md)
+
+  - [构造数组的max树](./info/Stack8.md)
+
+  - [求最大子矩阵的大小](./info/Stack9.md)
+
+  - [最大值减去最小值小于或等于num的子数组数量](./info/Stack10.md)
