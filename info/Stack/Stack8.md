@@ -1,5 +1,5 @@
 
-# 构造数组的MaxType
+# 构造数组的MaxTree
 
 ### 题目
 
