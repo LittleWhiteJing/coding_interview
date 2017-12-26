@@ -35,4 +35,4 @@
 
 ### 代码
 
-[Java源码实现](../src/Stack8.java)
+[Java源码实现](../../src/Stack/Stack8.java)

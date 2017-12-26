@@ -18,4 +18,4 @@ max(arr[i...j])表示子数组arrp[i...j]中的最大值，min(arr[i...j])表示
 
 ### 代码
 
- [Java源码实现](../src/Stack10.java)
+ [Java源码实现](../../src/Stack/Stack10.java)

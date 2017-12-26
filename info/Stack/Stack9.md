@@ -26,4 +26,4 @@
 
 ### 代码
 
- [Java源码实现](../src/Stack9.java)
+ [Java源码实现](../../src/Stack/Stack9.java)

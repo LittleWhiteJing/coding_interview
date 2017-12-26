@@ -38,4 +38,4 @@
 
 ### 代码
 
-[Java源码实现](../src/Stack6.java)
+[Java源码实现](../../src/Stack/Stack6.java)

@@ -36,4 +36,4 @@
 
 ### 代码
 
- [Java源码实现](../src/Stack7.java)
+ [Java源码实现](../../src/Stack/Stack7.java)

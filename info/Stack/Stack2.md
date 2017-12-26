@@ -14,4 +14,4 @@
 
 ### 代码
 
- [Java源码实现](../src/Stack2.java)
+ [Java源码实现](../../src/Stack/Stack2.java)
