@@ -39,3 +39,11 @@
   - [删除单链表的中间节点和a/b处的节点](./info/LinkList/LinkList3.md)
 
   - [反转单向链表和双向链表](./info/LinkList/LinkList4.md)
+
+  - [反转部分单项链表](./info/LinkList/LinkList5.md)
+
+  - [环形链表的约瑟夫问题](./info/LinkList/LinkList6.md)
+
+  - [判断一个链表是否为回文结构](./info/LinkList/LinkList7.md)
+
+  - [将单向链表按某值划分为左边小，中间相等，右边大的形式](./info/LinkList/LinkList8.md) 
