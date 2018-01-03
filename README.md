@@ -46,4 +46,28 @@
 
   - [判断一个链表是否为回文结构](./info/LinkList/LinkList7.md)
 
-  - [将单向链表按某值划分为左边小，中间相等，右边大的形式](./info/LinkList/LinkList8.md) 
+  - [将单向链表按某值划分为左边小，中间相等，右边大的形式](./info/LinkList/LinkList8.md)
+
+  - [复制含有随机指针节点的链表](./info/LinkList/LinkList9.md)
+
+  - [两个单链表生成相加链表](./info/LinkList/LinkList10.md)
+
+  - [两个单链表相交的一系列问题](./info/LinkList/LinkList11.md)
+
+  - [将链表的每K个节点之间逆序](./info/LinkList/LinkList12.md)
+
+  - [删除无序链表中值重复出现的节点](./info/LinkList/LinkList13.md)
+
+  - [在单链表中删除制定节点值的节点](./info/LinkList/LinkList14.md)
+
+  - [将搜索二叉树转换成双向链表](./info/LinkList/LinkList15.md)
+
+  - [单链表的选择排序](./info/LinkList/LinkList16.md)
+
+  - [一种怪异的节点删除方式](./info/LinkList/LinkList17.md)
+
+  - [向有序的环形链表中插入新节点](./info/LinkList/LinkList18.md)
+
+  - [合并两个有序的单链表](./info/LinkList/LinkList19.md)
+
+  - [按照左右半区的方式重新组合单链表](./info/LinkList/LinkList20.md)
