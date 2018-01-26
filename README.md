@@ -93,3 +93,31 @@
   - [二叉树的按层打印与ZigZag打印](./info/BTree/BTree9.md)
 
   - [调整搜索二叉树中两个错误的节点](./info/BTree/BTree10.md)
+
+  - [判断t1树是否包含t2树全部的拓扑结构](./info/BTree/BTree11.md)
+
+  - [判断t1树中是否有与t2树拓扑结构完全相同的子树](./info/BTree/BTree12.md)
+
+  - [判断二叉树是否为平衡二叉树](./info/BTree/BTree13.md)
+
+  - [根据后序数组重建搜索二叉树](./info/BTree/BTree14.md)
+
+  - [判断一棵二叉树是否为搜索二叉树和完全二叉树](./info/BTree/BTree15.md)
+
+  - [通过有序数组生成平衡搜索二叉树](./info/BTree/BTree16.md)
+
+  - [在二叉树中找到一个节点的后继节点](./info/BTree/BTree17.md)
+
+  - [在二叉树中找到两个节点的最近公共祖先](./info/BTree/BTree18.md)
+
+  - [Trajan算法与并查集解决二叉树节点间最近公共祖先的批量查询问题](./info/BTree/BTree19.md)
+
+  - [二叉树节点间的最大距离问题](./info/BTree/BTree20.md)
+
+  - [先序，中序，后序数组两两结合重构二叉树](./info/BTree/BTree21.md)
+
+  - [通过先序和中序数组生成后序数组](./info/BTree/BTree22.md)
+
+  - [统计和生成所有不同的二叉树](./info/BTree/BTree23.md)
+
+  - [统计完全二叉树的节点数](./info/BTree/BTree24.md)
